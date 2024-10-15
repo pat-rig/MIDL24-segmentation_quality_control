@@ -1,5 +1,5 @@
 ### Efficiently correcting patch-based segmentation errors to control image-level performance 
-<i> Experiments for MIDL 2024 submission. </i>
+<i> Experiments for MIDL 2024 Paper. </i>
 
 
 Instructions to Reproduce the Results:
